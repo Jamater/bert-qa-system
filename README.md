@@ -18,4 +18,4 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/bert-qa-system.git
+git clone https://github.com/Jamater/bert-qa-system.git
